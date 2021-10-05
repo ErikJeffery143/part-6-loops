@@ -28,7 +28,7 @@ namespace part_6_loops
             }
 
 
-            Console.WriteLine("Press ENTER to Close....");
+            Console.WriteLine("Press ENTER to Close.....");
 
 
 
